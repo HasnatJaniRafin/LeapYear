@@ -1,11 +1,11 @@
-//Leap yaer programming
+//Leap year programming
 
 #include <iostream>
 using namespace std ;
 int main ()
 {
     int y ;
-    cout << " enter any yeaer : " ;
+    cout << " enter any year : " ;
     cin>>y ;
 
     if ( y%4 ==0 && y%100!=0){
